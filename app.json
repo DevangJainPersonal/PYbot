@@ -1,0 +1,25 @@
+{
+    "name": "Test bot",
+    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
+    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/DevangJainPersonal",
+    "repository": "https://github.com/CrazyBotsz/PYbot",
+    "success_url": "https://telegram.dog/DEvaje",
+    
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
