@@ -6,10 +6,10 @@ import requests
 
 TOKEN = "Paytm CASH"
 AIRDROP = "Nothing"
-BOT_TOKEN = "2112257529:AAGeQgzad9BWGSiLNjmG6q_Yu-0lN40JPHc"
-PAYMENT_CHANNEL = "@FlameAirdrops"
-OWNER_ID = 1401481911
-CHANNELS = ["@FLAMEAIRDROPS"]
+BOT_TOKEN = "5057946072:AAEwO3_44NTsLbBGNmN_68yCK187yYR2gVU"
+PAYMENT_CHANNEL = "@TESTBO_OOT"
+OWNER_ID = 1177055920
+CHANNELS = ["@TESTBO_OOT"]
 Mini_Withdraw = 1
 Paytmkeys = "mgwludtyvvhrfdqosdis" #ask @SoulGOku for help
 mid = "2577" #if you don't know ask @SoulGoku'
